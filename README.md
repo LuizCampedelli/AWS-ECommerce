@@ -4,4 +4,4 @@ A Empresa X, uma grande varejista online, está enfrentando dificuldades com a e
 
 Objetivo do Projeto 
 
-Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. O grupo deve montar um diagrama de como ficaria a estrutura da AWS
+Migrar a infraestrutura de TI da Empresa X para a nuvem, implementando uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente. O grupo deve montar um diagrama de como ficaria a estrutura da AWS![AWS E-Commerce](https://github.com/user-attachments/assets/0223bfd3-2a83-4b30-ac3e-8e85fdfcf83d)
